@@ -1,0 +1,15 @@
+Colors 
+	*black
+	*darkgray
+	*gray
+	*blue
+
+font-size
+	*1.4em bold for title A name dark gray
+	*1.25em normal for title B dark gray
+	
+	*1.15em for Subtitle or Description black and gray. ALL PAGE
+	*0.9em for dates gray
+
+
+
